@@ -2,6 +2,12 @@
 
 This project is a multi-page application built using React and the react-router-dom library. It utilizes the JSONPlaceholder API (https://jsonplaceholder.typicode.com/) for data retrieval.
 
+## Preview on Desktop
+
+![Desktop Preview](./preview/desktop1.png "Home page")
+![Desktop Preview](./preview/desktop2.png "Albums")
+![Desktop Preview](./preview/desktop3.png "Users")
+
 ## Pages
 
 1. User List Page
@@ -18,12 +24,6 @@ Each page serves a specific purpose in the application and provides different fu
 - react-router-dom for routing
 - CSS Modules for styling
 
-## Usage
-
-- Click on the user from the User List to view their details and albums.
-- Click on an album from the User Details or Album List to view its details and photos.
-- Click on the user's name from the Album Details to go back to their details.
-- If the URL path is not supported, the 404 page will be displayed with a link to return to the home page.
 
 Feel free to explore the application and navigate between different pages to view user and album information!
 
